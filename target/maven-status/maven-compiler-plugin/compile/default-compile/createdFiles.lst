@@ -1,0 +1,4 @@
+com\example\products\entity\Producto.class
+com\example\products\repository\ProductoRepository.class
+com\example\products\controller\ProductoController.class
+com\example\products\ProductsApplication.class
